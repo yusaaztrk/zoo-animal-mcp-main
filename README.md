@@ -1,5 +1,7 @@
 # Zoo Animals MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@yusaaztrk/zoo-animal-mcp-main)](https://smithery.ai/server/@yusaaztrk/zoo-animal-mcp-main)
+
 A Model Context Protocol (MCP) server that provides zoo animal information using RapidAPI's Zoo Animals API.
 
 ## Features
@@ -51,6 +53,15 @@ Get animals by their type/category.
 
 ## Installation
 
+### Installing via Smithery
+
+To install Zoo Animal MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@yusaaztrk/zoo-animal-mcp-main):
+
+```bash
+npx -y @smithery/cli install @yusaaztrk/zoo-animal-mcp-main --client claude
+```
+
+### Manual Installation
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
