@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yusaaztrk-zoo-animal-mcp-main-badge.png)](https://mseep.ai/app/yusaaztrk-zoo-animal-mcp-main)
+
 # Zoo Animals MCP Server
 
 A Model Context Protocol (MCP) server that provides zoo animal information using RapidAPI's Zoo Animals API.
